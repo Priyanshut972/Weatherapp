@@ -2,7 +2,8 @@
 
 A responsive weather application built with React and Material-UI that fetches real-time weather data from OpenWeatherMap API.
 
-![Weather App Screenshot](./src/assets/screenshot.png) *(Add your screenshot image if available)*
+![image](https://github.com/user-attachments/assets/d736622f-3140-41b2-a23b-0d7d728312c9)
+
 
 ## Features ✨
 
