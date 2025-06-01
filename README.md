@@ -2,6 +2,8 @@
 
 A responsive weather application built with React and Material-UI that fetches real-time weather data from OpenWeatherMap API.
 
+the deployed link for this project: https://weatherapp-sigma-gilt.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/d736622f-3140-41b2-a23b-0d7d728312c9)
 
 
